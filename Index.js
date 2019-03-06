@@ -1,22 +1,12 @@
-for (let i = 0; i <4 ; i++) {
+const a = 10;
+
+const b = true;
+
+console.log(a);
+console.log(b);
+
+function test(){
+    console.log(a);
+    console.log(b);
 
 }
-describe ('', function () {
-
-});
-
-var Person = (function()){
-    // constructor
-    function Person(){
-
-    }
-    return Person;
-})();
-
-var myClass = (function()){
-    // constructor
-    function myClass(){
-
-    }
-    return myClass;
-})();
