@@ -1,11 +1,5 @@
-const a = 10;
+    let Nishun;
+    Nishun=5;
+    console.log(Nishun);
 
-const b = true;
 
-console.log(a);
-
-function test(){
-    console.log(a);
-    console.log(b);
-
-}
